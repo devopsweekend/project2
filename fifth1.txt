@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+fifth file
+=======
+new file added
+>>>>>>> 4f05fff0a0d083ce11f3daf9e43ac95cfb2e18f9
